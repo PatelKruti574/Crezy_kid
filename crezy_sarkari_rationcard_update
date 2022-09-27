@@ -1,0 +1,48 @@
+{
+"STATUS":true,
+   "MSG":"",
+   "onback_adshow":"1",
+   "APP_SETTINGS":{
+      "app_privacyPolicyLink":"",
+      "app_adShowStatus":"1"
+   },
+   "PLACEMENT":{
+      "Admob":{
+         "ad_showAdStatus":"",
+          "AppID":" ",
+         "Banner1":" ",
+         "Interstitial1":" ",
+         "Native1":" ",
+         "Native_baner":" ",
+          "AppOpen1":" "
+      },
+      "Facebookaudiencenetwork":{
+         "ad_showAdStatus":"1",
+          "Banner1":"",
+         "Interstitial1":"622796932761479_624138875960618",
+         "Interstitial2":"622796932761479_624138982627274",
+         "Interstitial3":"622796932761479_624139115960594",
+         "Interstitial4":"622796932761479_624139205960585",
+         "Interstitial5":"622796932761479_624139292627243",
+         "Interstitial6":"622796932761479_624139392627233",
+         "Interstitial7":"622796932761479_624139509293888",
+         "Interstitial8":"622796932761479_624139632627209",
+         "Interstitial_exit":"622796932761479_624139739293865",
+         "Interstitial_exit1":"622796932761479_624139885960517",
+         "Interstitial_exit2":"622796932761479_624140019293837",  
+         "Interstitial_exit3":"622796932761479_624140172627155",
+         "Interstitial_exit4":"622796932761479_624140455960460",
+         "Interstitial_exit5":"622796932761479_624140545960451",
+         "Native1":"622796932761479_624140895960416",
+          "NativeBanner1":"622796932761479_624140999293739"
+      },
+      "Unity":{
+         "ad_showAdStatus":"1",
+          "AppID":"4923729"
+      },
+      "QurekaLite":{
+         "ad_showAdStatus":"1",
+          "AppID":"https://336.set.qureka.com/"
+      }
+   }
+   }
