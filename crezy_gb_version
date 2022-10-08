@@ -9,20 +9,16 @@
    "PLACEMENT":{
       "Admob":{
          "ad_showAdStatus":"",
-         "ad_loadAdIdsType":"",
-         "AppID":" ",
+          "AppID":" ",
          "Banner1":" ",
          "Interstitial1":" ",
          "Native1":" ",
          "Native_baner":" ",
-         "RewardedVideo1":" ",
-         "RewardedInterstitial1":" ",
-         "AppOpen1":" "
+          "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
          "ad_showAdStatus":"1",
-         "ad_loadAdIdsType":"1",
-         "Banner1":"",
+          "Banner1":"",
          "Interstitial1":"",
          "Interstitial2":"",
          "Interstitial3":"",
@@ -38,18 +34,21 @@
          "Interstitial_exit4":"",
          "Interstitial_exit5":"",
          "Native1":"",
-         "RewardedVideo1":"",
-         "NativeBanner1":""
+          "NativeBanner1":""
       },
       "Unity":{
          "ad_showAdStatus":"1",
-         "ad_loadAdIdsType":"1",
-         "AppID":"4923729"
+          "AppID":"4923729"
+      },
+       "applovin":{
+         "ad_showAdStatus":"1",
+          "applovin_intretial":"",
+            "applovin_baner":"",
+              "applovin_native":""
       },
       "QurekaLite":{
          "ad_showAdStatus":"1",
-         "ad_loadAdIdsType":"1",
-         "AppID":"https://336.set.qureka.com/"
+          "AppID":"https://336.set.qureka.com/"
       }
    }
    }
