@@ -41,7 +41,7 @@
           "AppID":" "
       },
        "applovin":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
           "applovin_intretial":"9df798540013612f",
             "applovin_baner":"3a42c11fca2cca40",
               "applovin_native":"fc56a4a7f1df8611"
